@@ -11,7 +11,7 @@
 # Copiado para o diretorio /usr/local/bin/backup para ser executado com comando: $ sudo backup
 
 #Variáveis
-origem="/home/adrianoazevedo"
+origem="/home/meuhome"
 destino="/home/Backups/noteDell"
 logfile="/home/Backups/BkpNoteDell.log"
 backupfile="/home/Backups/Backup_noteDell.tar.gz"
